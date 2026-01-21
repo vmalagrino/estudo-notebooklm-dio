@@ -4,20 +4,16 @@ Com NotebookLM podemos gerar roteiros para vídeos, resumos de estudo, anotaçõ
 
 ## Funcionalidades
 
-- Fonte
-- Conversa
-- Estúdio
-
-## Fonte
+### Fonte
 
 Este processo diferente de uma IA comum, que busca diversas fontes para dar uma resposta tem um padrão diferente, o usuário é quem trata de informar as fontes e o Notebbok grava estes dados e realiza resumos e anotações a partir deles, podemos dar comandos simples, como por exemplo pedir que ela se comporte como a pessoa do estudo e responda com a mesma mente para os negócios. Podemos tentar entender a filosofia daquela pessoa.  
 Utilizei vídeos do YouTube e textos online de uma figura pública, Jensen Huang - CEO da Nvidia, e adicionei como fonte em meu Notebook para estudo.
 
-## Deep Research
+### Deep Research
 
 Busca diversas fontes ativas e confiáveis e faz uma curadoria dos melhores conteúdos. Para isso ele considera a relevância do site, clicks na página, retornos de busca. Isso não exclui o fato de ser necessária a validação do usuário.
 
-## Estúdio
+### Estúdio
 
 Gera através de IA, podcasts, vídeos, apresentações, mapas mentais, tabelas de gráficos entre outras opções, tudo com base no que fornecemos inicialmente.
 
