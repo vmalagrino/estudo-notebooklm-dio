@@ -1,10 +1,16 @@
-# Por que usar o NotebookLM para seus estudos
+# 📗 Por que usar o NotebookLM para seus estudos
 
-Com Notebooklm podemos criar um agente de IA, gerar roteiros para vídeos, resumos de estudo e muito mais.
-A ferramenta além de gratuita (até o momento), possui diversas funções.
+Com NotebookLM podemos gerar roteiros para vídeos, resumos de estudo, anotações e muito mais. A ferramenta além de gratuita (até o momento), possui diversas funções.
 
-Peguei vídeos e textos online de uma figura pública, Jensen Huang - CEO Nvidia, e adicionei como fonte em meu Notebook, este processo diferente de uma IA comum, que busca diversas fontes para dar uma resposta tem um padrão diferente, o usuário é quem trata de informar as fontes e o Notebbok grava estes dados e realiza resumos e anotações a partir deles, podemos dar comandos simples, como por exemplo pedir que ela se comporte como a pessoa do estudo e pensa com a mesma mente para os negócios.
-Outra ação é a "Deep Research" que busca diversas fontes online e confiáveis e faz uma curadoria sob os melhores conteúdos, isso não exclui o fato de ser necessária validação.
+Peguei vídeos e textos online de uma figura pública, Jensen Huang - CEO da Nvidia, e adicionei como fonte em meu Notebook, este processo diferente de uma IA comum, que busca diversas fontes para dar uma resposta tem um padrão diferente, o usuário é quem trata de informar as fontes e o Notebbok grava estes dados e realiza resumos e anotações a partir deles, podemos dar comandos simples, como por exemplo pedir que ela se comporte como a pessoa do estudo e responda com a mesma mente para os negócios. Podemos tentar entender a filosofia daquela pessoa.
+
+## Deep Research
+
+Busca diversas fontes ativas e confiáveis e faz uma curadoria dos melhores conteúdos. Para isso ele considera a relevância do site, clicks na página, retornos de busca. Isso não exclui o fato de ser necessária a validação do usuário.
+
+Podemos usar a função "Estúdio", que gera com IA, podcasts, vídeos, apresentações, mapas mentais, tabelas de gráficos entre outras opções, tudo com base no que fornecemos inicialmente.
+
+Este processo facilita o seu estudo com IAs, pois gera resumos e extrai informações dos arquivos como fonte, é ótimo para centralizar temas de estudo de diversas áreas evitando alucinações com IA.
 
 [NotebookLM Jensen Huang](https://notebooklm.google.com/notebook/cafea85a-b422-4522-89e8-fccda0ea697e)
 
